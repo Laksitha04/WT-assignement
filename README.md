@@ -1,9 +1,9 @@
 # Student Admission & Profile Management Portal
 
 **Student details:**
-- Name: Monika M
-- Roll Number: 24CS122
-- Course: B.Tech CSE
+- Name: Laksitha s
+- Roll Number: 24CS105
+- Course: B.E CSE
 
 ## About the Project
 
